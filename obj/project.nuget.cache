@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CW6oYv9epMBVcIqFCX4wSB1xz8z/kJ3OlGBJ5xuQW8Urdr31ezPxlwH9xJyVwKwHcb1MV2iWF9fYzys/6YWzdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jariv\\source\\repos\\WebscraperPractice\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jariv\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\jariv\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
